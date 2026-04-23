@@ -1,0 +1,6 @@
+{
+  "name": "VideoMerge Studio",
+  "description": "A browser-based video editing suite to merge videos, mix audio with professional EQ, and export high-quality WebM files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
